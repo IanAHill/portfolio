@@ -14,17 +14,17 @@ export const Projects = () => {
         
         <div class="project">
           <h3>Slice N' Dice</h3>
-          <a href = "https://slice-n-dice-iah.herokuapp.com/"><img src="slicendice.png" alt="nina turtles logo" /></a>
+          <a href = "https://slice-n-dice-iah.herokuapp.com/"><img src="./portfolio/slicendice.png" alt="nina turtles logo" /></a>
         </div>
 
         <div class="project">
           <h3>Star Wars Travel Guide</h3>
-          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="starwars.jpg" alt="star wars planet" /></a>
+          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="./portfolio/starwars.jpg" alt="star wars planet" /></a>
         </div>
 
         <div class="project">
           <h3>Family Cookbook</h3>
-          <a href="https://family-cookbook-astokes.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
+          <a href="https://family-cookbook-astokes.herokuapp.com/"><img src="./portfolio/familycookbook.jpg" alt="picture of someone cooking" /></a>
         </div>
       </div>
     </div>
