@@ -19,7 +19,7 @@ export const Projects = () => {
 
         <div class="project">
           <h3>Star Wars Travel Guide</h3>
-          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="../../familycookbook.jpg" alt="star wars planet" /></a>
+          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="starwars.jpg" alt="star wars planet" /></a>
         </div>
 
         <div class="project">
