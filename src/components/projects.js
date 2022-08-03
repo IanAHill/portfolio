@@ -19,12 +19,12 @@ export const Projects = () => {
 
         <div class="project">
           <h3>Star Wars Travel Guide</h3>
-          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="familycookbook.jpg" alt="star wars planet" /></a>
+          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="/familycookbook.jpg" alt="star wars planet" /></a>
         </div>
 
         <div class="project">
           <h3>Family Cookbook</h3>
-          <a href="https://family-cookbook-astokes.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
+          <a href="https://family-cookbook-astokes.herokuapp.com/"><img src="/familycookbook.jpg" alt="picture of someone cooking" /></a>
         </div>
       </div>
     </div>
