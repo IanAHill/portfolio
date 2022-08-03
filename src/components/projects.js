@@ -13,8 +13,8 @@ export const Projects = () => {
       <div id="projects-container">
         
         <div class="project">
-          <h3>Password Generator</h3>
-          <img src="familycookbook.jpg" alt="keypad" />
+          <h3>Slice N' Dice</h3>
+          <a href="https://slice-n-dice-iah.herokuapp.com/"><img src="slicendice.png" alt="nina turtles logo" /></a>
         </div>
 
         <div class="project">
