@@ -14,7 +14,7 @@ export const Projects = () => {
         
         <div class="project">
           <h3>Slice N' Dice</h3>
-          <img src="slicendice.png" alt="nina turtles logo" />
+          <a href = "https://slice-n-dice-iah.herokuapp.com/"><img src="slicendice.png" alt="nina turtles logo" /></a>
         </div>
 
         <div class="project">
