@@ -6,8 +6,8 @@ export const Footer = () => {
         <div id = "footer">
     
             <p>Made with love by me 2022</p>
-            <img src = "./portfolio/github.png" height="5%" width="5%"/>
-            <img src = "./portfolio/linkedin.png" height="5%" width="5%"/>
+            <img src = "github.png" height="5%" width="5%"/>
+            <img src = "linkedin.png" height="5%" width="5%"/>
 
 
         </div>
