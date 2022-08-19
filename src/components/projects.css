@@ -12,18 +12,45 @@
     border: solid;
     margin-top: 0px;
     margin-bottom: 0px;
+    background-color: white;
 }
 
+.project-description {
+    font-size: small;
+    font-weight: bold;
+    padding: 10px;
+    text-align: justify;
+    background-color: white;
+    background-size:auto;
+    border-top: solid;
+    
+}
 .project img {
     width: 100%;
+    margin: 0px;
+    padding-top: 5px;
+    border-top: solid;
+    border-color: black;
     
-  
+}
+
+
+.project a {
+    padding: 0px;
+    margin: 0px;
 }
 .project h3 {
     background-color: #2d5c88;
     padding: 20px;
     color: white;
 }
+
+.project-title {
+    width: 100%;
+    margin: auto;
+}
+
+
 
 @media(max-width:768px){
     #projects-container {

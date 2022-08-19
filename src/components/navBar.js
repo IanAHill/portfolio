@@ -38,13 +38,13 @@ export const NavBar = () => {
                             navMenu.classList.remove("active");
                         }}>Projects</a></li>
 
-                        <li class="nav-item"><a href="#contact" class="nav-link" onClick={() => {
-                            changeSection("Contact");
+                        <li class="nav-item"><a href="./IanHillResume.pdf" download class="nav-link" onClick={() => {
+                            
                             const hamburger = document.querySelector(".hamburger");
                             const navMenu = document.querySelector(".nav-menu");
                             hamburger.classList.remove("active");
                             navMenu.classList.remove("active");
-                        }}>Contact</a></li>
+                        }}>Resume</a></li>
                     </ul>
 
                     <div class="hamburger" onClick={() => {

@@ -13,7 +13,14 @@
     margin: 20px;
 }
 
-
+#contact-link {
+  color: white;
+}
+#contact-link:hover{
+  border-bottom: solid;
+  transition: ;
+  
+}
 @media(max-width:768px){
     #footer img {
       min-width: 100px;
