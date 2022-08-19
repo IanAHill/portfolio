@@ -11,7 +11,7 @@ body {
 
 .fade-in {
     animation-name: FadeIn;
-    animation-duration: 3s;
+    animation-duration: 1s;
     transition-timing-function: linear;
   }
   
