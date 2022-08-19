@@ -16,13 +16,13 @@
 
 #brand-statement {
     text-align: justify;
-    margin-left: 30px;
-    margin-right: 30px;
+    /* margin-left: 30px;
+    margin-right: 30px; */
     max-width: 500px;
-
+    margin: auto;
 }
 
-@media(max-width:768px){
+@media(max-width:1000px){
     #about-container {
         display: block;
     }
@@ -31,5 +31,8 @@
         margin-top: 50px;
         margin: auto;
         margin-top: 50px;
+    }
+    #headshot {
+        margin: auto;
     }
 }
