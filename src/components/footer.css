@@ -12,3 +12,13 @@
 #footer img {
     margin: 20px;
 }
+
+
+@media(max-width:768px){
+    #footer img {
+      min-width: 100px;
+        
+        
+    }
+
+  }
