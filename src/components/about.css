@@ -9,10 +9,27 @@
     border: black;
     border-style: solid;
     box-shadow: 8px 8px 8px 8px #888888;
+    height: 500px;
+    
+  
 }
 
 #brand-statement {
     text-align: justify;
     margin-left: 30px;
     margin-right: 30px;
+    max-width: 500px;
+
+}
+
+@media(max-width:768px){
+    #about-container {
+        display: block;
+    }
+
+    #brand-statement {
+        margin-top: 50px;
+        margin: auto;
+        margin-top: 50px;
+    }
 }
