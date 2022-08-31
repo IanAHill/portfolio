@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-![screenshot of app](screenshot.png)
+![screenshot of app](./public/screenshot.png)
 
 In the project directory, you can run:
 
