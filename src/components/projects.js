@@ -20,8 +20,8 @@ export const Projects = () => {
 
 
         <div class="project">
-          <h3 class = "project-title">Star Wars Travel Guide</h3>
-          <a href="https://ianahill.github.io/StarWars-Travel-Planner/"><img src="starwars.jpg" alt="star wars planet" /></a>
+          <h3 class = "project-title">Weather App</h3>
+          <a href="https://ianahill.github.io/Weather-Forecast-App/"><img src="clouds.jpg" alt="clouds" /></a>
           <p class = "project-description">My very first group project! The Star Wars Travel Guide uses a Star Wars API to pull planet data from a number of planets in the Star Wars Galaxy. {<br />}{<br />}Planets are paired with real-world locations and provide real-time weather updates using a weather API.</p>
         </div>
 
