@@ -12,24 +12,26 @@ export const Projects = () => {
 
       <div id="projects-container">
         
+     
+
         <div class="project">
-          <h3 class = "project-title">Slice N' Dice</h3>
+        <a href="https://ianahill.github.io/Weather-Forecast-App/"><h3 class = "project-title">Weather App</h3></a>
+          <a href="https://ianahill.github.io/Weather-Forecast-App/"><img src="clouds.jpg" alt="clouds" /></a>
+          <p class = "project-description">A simple weather forecast app that allows users to search by city name. Demonstrates working with JSON data and third-party APIs. {<br />}{<br />}Coded with HTML, CSS, and JavaScript. Weather data is retrieved via OpenWeather's One Call API. </p>
+        </div>
+
+        <div class="project">
+        <a href="https://family-cookbook-iah.herokuapp.com/"><h3 class = "project-title">Family Cookbook</h3></a>
+          <a href="https://family-cookbook-iah.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
+          <p class = "project-description">A cloud-based cookbook that stores treasured family recipes for easy sharing and access. {<br />}{<br />} Demonstrates CRUD operations with a mySQL database, with database queries in SQL and Object Relational Mapping with Sequelize. Features REST API design. {<br />}{<br />} Front-end designed with HTML, CSS, Bootstrap, Handlebars, and JavaScript.Features MySQL databse, object-relational-mapping with Sequelize, cloudinary, and Boostrap styling {<br />}{<br />} To test recipe database, log in with Email: stokes@email.com and password: password  </p>
+        </div>
+
+        <div class="project">
+        <a href = "https://slice-n-dice-iah.herokuapp.com/"><h3 class = "project-title">Slice N' Dice</h3></a>
           <a href = "https://slice-n-dice-iah.herokuapp.com/"><img src="slicendice.png" alt="nina turtles logo" /></a>
           <p class = "project-description">A mock pizza ordering/delivery app based on the TMNT universe. Front-end created in React.js, with a connected Mongo databse. {<br />}{<br />}Sign up to test user functionality. Currently available on desktop browsers only.</p>
         </div>
 
-
-        <div class="project">
-          <h3 class = "project-title">Weather App</h3>
-          <a href="https://ianahill.github.io/Weather-Forecast-App/"><img src="clouds.jpg" alt="clouds" /></a>
-          <p class = "project-description">My very first group project! The Star Wars Travel Guide uses a Star Wars API to pull planet data from a number of planets in the Star Wars Galaxy. {<br />}{<br />}Planets are paired with real-world locations and provide real-time weather updates using a weather API.</p>
-        </div>
-
-        <div class="project">
-          <h3 class = "project-title">Family Cookbook</h3>
-          <a href="https://family-cookbook-astokes.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
-          <p class = "project-description">A cloud-based cookbook that stores treasured family recipes for easy sharing and access.{<br />}{<br />} Features MySQL databse, object-relational-mapping with Sequelize, cloudinary, and Boostrap styling {<br />}{<br />} To test recipe database, log in with Email: stokes@email.com and password: password  </p>
-        </div>
       </div>
     </div>
   )
