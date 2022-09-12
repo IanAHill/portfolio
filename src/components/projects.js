@@ -7,8 +7,8 @@ export const Projects = () => {
   return (
     <div className="fade-in">
 
-      <h1>My Work</h1>
-      <h3>Here you can preview a sample of some of my work. Note: projects deployed to Heroku may take a minute to load.</h3><br></br><br></br><br></br>
+      <h1>My Work</h1><br></br>
+      <h3>Here you can preview a sample of some of my work.<br></br><em>Note: projects deployed to Heroku may take a minute to load.</em></h3><br></br><br></br><br></br>
 
       <div id="projects-container">
         
