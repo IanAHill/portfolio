@@ -23,7 +23,7 @@ export const Projects = () => {
         <div class="project">
         <a href = "./us-medical-insurance-analysis.html"><h3 class = "project-title">Insurance Analysis</h3></a>
           <a href = "./us-medical-insurance-analysis.html"><img src="insurance.jpg" alt="insurance image" /></a>
-          <p class = "project-description">A mock pizza ordering/delivery app based on the TMNT universe. Front-end created in React.js, with a connected Mongo databse. {<br />}{<br />}Sign up to test user functionality. Currently available on desktop browsers only.</p>
+          <p class = "project-description">This project demonstrates Python fundamentals by providing a report on data imported in a CSV file of medical insurance costs. {<br />}{<br />}The goal of the project is to analyze the data to learn more about patient information, provide insights into medical insurance cost variables, and make recommendations on potential future use of the dataset.</p>
         </div>
 
         <div class="project">
