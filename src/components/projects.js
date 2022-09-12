@@ -27,8 +27,8 @@ export const Projects = () => {
         </div>
 
         <div class="project">
-        <a href = "https://slice-n-dice-iah.herokuapp.com/"><h3 class = "project-title">Slice N' Dice</h3></a>
-          <a href = "https://slice-n-dice-iah.herokuapp.com/"><img src="slicendice.png" alt="nina turtles logo" /></a>
+        <a href = "./us-medical-insurance-analysis.html"><h3 class = "project-title">Slice N' Dice</h3></a>
+          <a href = "./us-medical-insurance-analysis.html"><img src="slicendice.png" alt="nina turtles logo" /></a>
           <p class = "project-description">A mock pizza ordering/delivery app based on the TMNT universe. Front-end created in React.js, with a connected Mongo databse. {<br />}{<br />}Sign up to test user functionality. Currently available on desktop browsers only.</p>
         </div>
 
