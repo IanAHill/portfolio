@@ -21,16 +21,18 @@ export const Projects = () => {
         </div>
 
         <div class="project">
+        <a href = "./us-medical-insurance-analysis.html"><h3 class = "project-title">Insurance Analysis</h3></a>
+          <a href = "./us-medical-insurance-analysis.html"><img src="insurance.jpg" alt="insurance image" /></a>
+          <p class = "project-description">A mock pizza ordering/delivery app based on the TMNT universe. Front-end created in React.js, with a connected Mongo databse. {<br />}{<br />}Sign up to test user functionality. Currently available on desktop browsers only.</p>
+        </div>
+
+        <div class="project">
         <a href="https://family-cookbook-iah.herokuapp.com/"><h3 class = "project-title">Family Cookbook</h3></a>
           <a href="https://family-cookbook-iah.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
           <p class = "project-description">A cloud-based cookbook that stores treasured family recipes for easy sharing and access. {<br />}{<br />} Demonstrates CRUD operations with a mySQL database, with database queries in SQL and Object Relational Mapping with Sequelize. Features REST API design. {<br />}{<br />} Front-end designed with HTML, CSS, Bootstrap, Handlebars, and JavaScript.Features MySQL databse, object-relational-mapping with Sequelize, cloudinary, and Boostrap styling {<br />}{<br />} To test recipe database, log in with Email: stokes@email.com and password: password  </p>
         </div>
 
-        <div class="project">
-        <a href = "./us-medical-insurance-analysis.html"><h3 class = "project-title">Slice N' Dice</h3></a>
-          <a href = "./us-medical-insurance-analysis.html"><img src="slicendice.png" alt="nina turtles logo" /></a>
-          <p class = "project-description">A mock pizza ordering/delivery app based on the TMNT universe. Front-end created in React.js, with a connected Mongo databse. {<br />}{<br />}Sign up to test user functionality. Currently available on desktop browsers only.</p>
-        </div>
+        
 
       </div>
     </div>
