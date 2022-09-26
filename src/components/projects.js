@@ -14,6 +14,20 @@ export const Projects = () => {
         
      
 
+      <div class="project">
+        <a href="https://public.tableau.com/views/TreeCensusDataSetStarter_16640503303930/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><h3 class = "project-title">Trees and Money in NYC Analysis</h3></a>
+          <a href="https://public.tableau.com/views/TreeCensusDataSetStarter_16640503303930/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="TreeData.png" alt="clouds" /></a>
+          <p class = "project-description">A tree census data dashboard developed in BI software Tableau{<br />}{<br />}Investigates tree density, health, and income in New York City's five boroughs  </p>
+        </div>
+        
+        
+        
+        <div class="project">
+        <a href="https://public.tableau.com/views/SalesDashboard_16641502146150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><h3 class = "project-title">BI Software Dashboard</h3></a>
+          <a href="https://public.tableau.com/views/SalesDashboard_16641502146150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="BISales.png" alt="clouds" /></a>
+          <p class = "project-description">A company profits dashboard created in BI softward Tableau.{<br />}{<br />}Investigates profits by region, category, and sub-category.</p>
+        </div>
+        
         <div class="project">
         <a href="https://ianahill.github.io/Weather-Forecast-App/"><h3 class = "project-title">Weather App</h3></a>
           <a href="https://ianahill.github.io/Weather-Forecast-App/"><img src="clouds.jpg" alt="clouds" /></a>
