@@ -38,7 +38,7 @@ export const NavBar = () => {
                             navMenu.classList.remove("active");
                         }}>Projects</a></li>
 
-                        <li class="nav-item"><a href="./Resume-IanHill-March2023" download class="nav-link" onClick={() => {
+                        <li class="nav-item"><a href="./Resume-IanHill-March2023.pdf" download class="nav-link" onClick={() => {
                             
                             const hamburger = document.querySelector(".hamburger");
                             const navMenu = document.querySelector(".nav-menu");
