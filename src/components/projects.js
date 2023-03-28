@@ -13,6 +13,21 @@ export const Projects = () => {
       <div id="projects-container">
         
      
+      <div class="project">
+        <a href="https://ianahill.pythonanywhere.com"><h3 class = "project-title">Kung Fu Vapes DataCloud</h3></a>
+          <a href="https://ianahill.pythonanywhere.com"><img src="django.png" alt="Python and Django Logos" /></a>
+          <p class = "project-description">
+            A simple full-stack analytics app based on a real-world B2B company created with Django and Chart.js.{<br />}{<br />}
+            Demonstrates CRUD operations with a SQLite database, with queries and Object Relational Mapping with Django. {<br />}{<br />} 
+            Front-end designed with HTML, CSS, Django Templates, and JavaScript{<br />}{<br />} 
+            Data visualizations created with Chart.js {<br />}{<br />} 
+            <a href="https://github.com/IanAHill/magdatacloud">View Project Repository Here</a> {<br />}{<br />} 
+            <a href="https://github.com/IanAHill/magdatacloud#readme">View Project README Here</a> {<br />}{<br />} 
+            <a href="https://ianahill.pythonanywhere.com">View Deployed Project Live Here</a> {<br />}{<br />} 
+            </p>
+            
+        </div>
+
 
       <div class="project">
         <a href="https://public.tableau.com/views/TreeCensusDataSetStarter_16640503303930/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><h3 class = "project-title">Trees and Money in NYC Analysis</h3></a>
@@ -38,12 +53,6 @@ export const Projects = () => {
         <a href = "./us-medical-insurance-analysis.html"><h3 class = "project-title">Insurance Analysis</h3></a>
           <a href = "./us-medical-insurance-analysis.html"><img src="insurance.jpg" alt="insurance image" /></a>
           <p class = "project-description">This project demonstrates Python fundamentals by providing a report on data imported in a CSV file of medical insurance costs. {<br />}{<br />}The goal of the project is to analyze the data to learn more about patient information, provide insights into medical insurance cost variables, and make recommendations on potential future use of the dataset.</p>
-        </div>
-
-        <div class="project">
-        <a href="https://family-cookbook-iah.herokuapp.com/"><h3 class = "project-title">Family Cookbook</h3></a>
-          <a href="https://family-cookbook-iah.herokuapp.com/"><img src="familycookbook.jpg" alt="picture of someone cooking" /></a>
-          <p class = "project-description">A cloud-based cookbook that stores treasured family recipes for easy sharing and access. {<br />}{<br />} Demonstrates CRUD operations with a mySQL database, with database queries in SQL and Object Relational Mapping with Sequelize. Features REST API design. {<br />}{<br />} Front-end designed with HTML, CSS, Bootstrap, Handlebars, and JavaScript.Features MySQL databse, object-relational-mapping with Sequelize, cloudinary, and Boostrap styling {<br />}{<br />} To test recipe database, log in with Email: stokes@email.com and password: password  </p>
         </div>
 
         
