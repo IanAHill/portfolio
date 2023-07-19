@@ -13,21 +13,7 @@ export const Projects = () => {
       <div id="projects-container">
         
      
-      <div class="project">
-        <a href="https://ianahill.pythonanywhere.com"><h3 class = "project-title">Kung Fu Vapes DataCloud</h3></a>
-          <a href="https://ianahill.pythonanywhere.com"><img src="django.png" alt="Python and Django Logos" /></a>
-          <p class = "project-description">
-            A simple full-stack analytics app based on a real-world B2B company created with Django and Chart.js.{<br />}{<br />}
-            Demonstrates CRUD operations with a SQLite database, with queries and Object Relational Mapping with Django. {<br />}{<br />} 
-            Front-end designed with HTML, CSS, Django Templates, and JavaScript{<br />}{<br />} 
-            Data visualizations created with Chart.js {<br />}{<br />} 
-            <a href="https://github.com/IanAHill/magdatacloud">View Project Repository Here</a> {<br />}{<br />} 
-            <a href="https://github.com/IanAHill/magdatacloud#readme">View Project README Here</a> {<br />}{<br />} 
-            <a href="https://ianahill.pythonanywhere.com">View Deployed Project Live Here</a> {<br />}{<br />} 
-            </p>
-            
-        </div>
-
+    
 
       <div class="project">
         <a href="https://public.tableau.com/views/TreeCensusDataSetStarter_16640503303930/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><h3 class = "project-title">Trees and Money in NYC Analysis</h3></a>
